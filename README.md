@@ -1,3 +1,3 @@
 # test-svg-with-audio
 
-![test](audio.svg)
+![test](demo.svg)
