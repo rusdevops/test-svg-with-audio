@@ -33,9 +33,8 @@
       function $(sel) { return document.querySelector(sel); }
     </script>
     <audio xmlns="http://www.w3.org/1999/xhtml">
-      <source src="media/bubbles.ogg" type="audio/ogg"/>
-      <source src="media/bubbles.mp3" type="audio/mpeg"/>
-      <source src="test-svg-with-audio/Bubbles-SoundBible.com-810959520.wav" type="audio/x-wav"/>
+      <source src="Bubbles-SoundBible.com-810959520.mp3" type="audio/mpeg"/>
+      <source src="Bubbles-SoundBible.com-810959520.wav" type="audio/x-wav"/>
     </audio>
   </defs>
   
